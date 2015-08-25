@@ -1,5 +1,5 @@
 /**
-*	n & (n-1) 可以算出一个整数的二进制有多少个1
+*	n & (n-1) 
 */
 public class Solution {
     // you need to treat n as an unsigned value
